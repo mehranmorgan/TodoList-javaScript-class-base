@@ -75,5 +75,5 @@ TodoList-javaScript-class-base/
 
 ---
 
-<p align="center">ساخته شده با 💛 توسط <strong>Mehran Morgan</strong></p>
+<p align="center">ساخته شده با 💛 توسط <strong>Mehran Abdollahi</strong></p>
 
